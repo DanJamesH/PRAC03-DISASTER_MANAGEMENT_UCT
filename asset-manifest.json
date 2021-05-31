@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/PRAC03-DISASTER_MANAGEMENT_UCT/static/css/main.1ad02954.chunk.css",
-    "main.js": "/PRAC03-DISASTER_MANAGEMENT_UCT/static/js/main.3c443aab.chunk.js",
-    "main.js.map": "/PRAC03-DISASTER_MANAGEMENT_UCT/static/js/main.3c443aab.chunk.js.map",
+    "main.js": "/PRAC03-DISASTER_MANAGEMENT_UCT/static/js/main.5236868c.chunk.js",
+    "main.js.map": "/PRAC03-DISASTER_MANAGEMENT_UCT/static/js/main.5236868c.chunk.js.map",
     "runtime-main.js": "/PRAC03-DISASTER_MANAGEMENT_UCT/static/js/runtime-main.3562b24b.js",
     "runtime-main.js.map": "/PRAC03-DISASTER_MANAGEMENT_UCT/static/js/runtime-main.3562b24b.js.map",
     "static/js/2.3ae34f36.chunk.js": "/PRAC03-DISASTER_MANAGEMENT_UCT/static/js/2.3ae34f36.chunk.js",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.3562b24b.js",
     "static/js/2.3ae34f36.chunk.js",
     "static/css/main.1ad02954.chunk.css",
-    "static/js/main.3c443aab.chunk.js"
+    "static/js/main.5236868c.chunk.js"
   ]
 }
