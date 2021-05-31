@@ -117,7 +117,7 @@ const App = () => {
         }}
       >
         <h1 style={{ textAlign: "center", color: "white" }}>
-          UCT Disaster management map
+          UCT Disaster Management Map
         </h1>
         <IconButton
           onClick={() => {
